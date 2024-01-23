@@ -1,4 +1,4 @@
-package org.example.observer.notificationmanager.stockmarket;
+package org.example.observer.stockmarket;
 
 public class Investor {
 

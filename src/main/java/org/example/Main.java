@@ -1,11 +1,11 @@
 package org.example;
 
-import org.example.observer.notificationmanager.NotificationManager;
-import org.example.observer.notificationmanager.PaymentEventLogger;
-import org.example.observer.notificationmanager.PaymentListener;
-import org.example.observer.notificationmanager.PaymentManager;
-import org.example.observer.notificationmanager.stockmarket.Investor;
-import org.example.observer.notificationmanager.stockmarket.MarketManager;
+import org.example.observer.notificationmanage.NotificationManager;
+import org.example.observer.notificationmanage.PaymentEventLogger;
+import org.example.observer.notificationmanage.PaymentListener;
+import org.example.observer.notificationmanage.PaymentManager;
+import org.example.observer.stockmarket.Investor;
+import org.example.observer.stockmarket.MarketManager;
 
 public class Main {
     public static void main(String[] args) {

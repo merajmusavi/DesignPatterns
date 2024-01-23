@@ -1,4 +1,4 @@
-package org.example.observer.notificationmanager;
+package org.example.observer.notificationmanage;
 
 public class PaymentEventLogger implements PaymentListener {
     private void logEvent(){

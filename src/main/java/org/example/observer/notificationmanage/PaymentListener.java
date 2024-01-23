@@ -1,4 +1,4 @@
-package org.example.observer.notificationmanager;
+package org.example.observer.notificationmanage;
 
 public interface PaymentListener {
     void paymentMade();
