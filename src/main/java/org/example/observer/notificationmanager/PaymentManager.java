@@ -1,4 +1,4 @@
-package org.example.observer;
+package org.example.observer.notificationmanager;
 
 import java.util.ArrayList;
 import java.util.List;
