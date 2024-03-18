@@ -1,4 +1,4 @@
-package state
+package state.ex1
 
 class SelectionTool : Tool {
     override fun mouseDown() {

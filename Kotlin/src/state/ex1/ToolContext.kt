@@ -1,4 +1,4 @@
-package state
+package state.ex1
 
 class ToolContext {
     private var currentState: Tool = SelectionTool()
