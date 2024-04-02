@@ -1,4 +1,4 @@
-package strategy;
+package strategy.oldschool;
 
 public class JpegCompressor implements Compressor{
     @Override

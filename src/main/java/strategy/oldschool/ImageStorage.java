@@ -1,4 +1,4 @@
-package strategy;
+package strategy.oldschool;
 
 public class ImageStorage {
     private Compressor compressor;
