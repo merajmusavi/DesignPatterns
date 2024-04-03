@@ -1,4 +1,4 @@
-package org.example.state;
+package org.example.state.ex1;
 
 public class Main {
     public static void main(String[] args) {
