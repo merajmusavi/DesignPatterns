@@ -1,4 +1,4 @@
-package strategy.oldschool;
+package org.example.strategy.oldschool;
 
 public class Main {
     public static void main(String[] args) {

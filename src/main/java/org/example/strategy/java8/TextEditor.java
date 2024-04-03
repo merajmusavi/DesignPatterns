@@ -1,4 +1,4 @@
-package strategy.java8;
+package org.example.strategy.java8;
 
 public class TextEditor {
     private TextFormatter textFormatter;

@@ -1,4 +1,4 @@
-package strategy.oldschool;
+package org.example.strategy.oldschool;
 
 public class PngCompressor implements Compressor{
     @Override
