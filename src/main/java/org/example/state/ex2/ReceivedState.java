@@ -16,4 +16,9 @@ p.setPackageState(new DeliveredState());
     public void printStatus() {
         System.out.println("received state");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

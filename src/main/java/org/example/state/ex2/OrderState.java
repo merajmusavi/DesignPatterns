@@ -15,4 +15,9 @@ public class OrderState implements PackageState{
     public void printStatus() {
         System.out.println("current state is order state");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

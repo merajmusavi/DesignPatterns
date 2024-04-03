@@ -15,4 +15,9 @@ public class DeliveredState implements PackageState{
     public void printStatus() {
         System.out.println("current state is deliver state");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

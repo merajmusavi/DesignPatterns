@@ -24,4 +24,10 @@ public class Package {
         packageState.printStatus();
     }
 
+    @Override
+    public String toString() {
+        return "Package{" +
+                "packageState=" + packageState +
+                '}';
+    }
 }
