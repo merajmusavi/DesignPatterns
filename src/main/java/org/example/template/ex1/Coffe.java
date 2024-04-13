@@ -1,4 +1,4 @@
-package org.example.template;
+package org.example.template.ex1;
 
 public class Coffe extends HotBeverage {
     @Override
