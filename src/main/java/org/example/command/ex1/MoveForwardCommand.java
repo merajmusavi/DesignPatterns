@@ -1,4 +1,4 @@
-package org.example.command;
+package org.example.command.ex1;
 
 public class MoveForwardCommand implements Command{
     private ToyCar toyCar;
