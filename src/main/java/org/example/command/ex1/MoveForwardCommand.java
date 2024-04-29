@@ -8,7 +8,7 @@ public class MoveForwardCommand implements Command{
     }
 
     @Override
-    public void command() {
+    public void execute() {
         toyCar.moveForward();
     }
 }

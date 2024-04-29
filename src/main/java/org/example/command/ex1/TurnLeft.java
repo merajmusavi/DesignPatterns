@@ -9,7 +9,7 @@ public class TurnLeft implements Command {
     }
 
     @Override
-    public void command() {
+    public void execute() {
         toyCar.turnLeft();
     }
 }

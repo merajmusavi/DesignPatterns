@@ -9,7 +9,7 @@ public class MoveBackWard implements Command {
     }
 
     @Override
-    public void command() {
+    public void execute() {
         toyCar.moveBackWard();
     }
 }

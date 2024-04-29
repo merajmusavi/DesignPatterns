@@ -9,7 +9,6 @@ public class PaymentManager {
    public void pay(){
        paymentListeners.forEach(p -> p.paymentMade());
 
-
     }
 
     public void registerListener(PaymentListener paymentListener){
